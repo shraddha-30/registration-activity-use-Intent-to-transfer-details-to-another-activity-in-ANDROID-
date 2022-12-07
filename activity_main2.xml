@@ -1,0 +1,23 @@
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;androidx.constraintlayout.widget.ConstraintLayout
+xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
+xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;
+xmlns:tools=&quot;http://schemas.android.com/tools&quot;
+android:layout_width=&quot;match_parent&quot;
+android:layout_height=&quot;match_parent&quot;
+tools:context=&quot;.MainActivity2&quot;&gt;
+&lt;TextView
+android:id=&quot;@+id/textView&quot;
+android:layout_width=&quot;267dp&quot;
+android:layout_height=&quot;88dp&quot;
+android:text=&quot;Welcome&quot;
+android:textColor=&quot;#331667&quot;
+android:textSize=&quot;34sp&quot;
+android:textStyle=&quot;bold&quot;
+app:layout_constraintBottom_toBottomOf=&quot;parent&quot;
+app:layout_constraintEnd_toEndOf=&quot;parent&quot;
+app:layout_constraintHorizontal_bias=&quot;0.388&quot;
+app:layout_constraintStart_toStartOf=&quot;parent&quot;
+app:layout_constraintTop_toTopOf=&quot;parent&quot;
+app:layout_constraintVertical_bias=&quot;0.23&quot; /&gt;
+&lt;/androidx.constraintlayout.widget.ConstraintLayout&gt;
